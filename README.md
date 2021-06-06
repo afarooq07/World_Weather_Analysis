@@ -1,5 +1,7 @@
 # World_Weather_Analysis
 
+This week's challenge includes three deliverables for PlanMyTrip app Beta testers.
+
 ## Deliverable 1 Resources:
 The scope of the first deliverable was to generate 2000 random Lats/Lngs, gather city weather data, save in a dataframe and finally export the data to a csv file
 </br>
