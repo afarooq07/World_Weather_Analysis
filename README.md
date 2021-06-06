@@ -3,7 +3,8 @@
 ## Deliverable 1 Resources:
 The scope of the first deliverable was to generate 2000 random Lats/Lngs, gather city weather data, save in a dataframe and finally export the data to a csv file
 </br>
-Please note that a 15 second delays was added to API calls to preventAPI key suspensions
+</br>
+Please note that a 15 second delays was added to API calls to prevent API key suspensions
 </br>
 
 - Folder: Weather_Database
@@ -16,7 +17,8 @@ Please note that a 15 second delays was added to API calls to preventAPI key sus
 ## Deliverable 2 Resources:
 The scope of second deliverable was to create a marker layer map with pop-up markers based on destinations identify using customer weather preferences gathered via input prompts. 
 </br>
-Please note that a 15 second delays was added to API calls to preventAPI key suspensions
+</br>
+Please note that a 15 second delays was added to API calls to prevent API key suspensions
 </br>
 
 - Folder: Vacation_Search
